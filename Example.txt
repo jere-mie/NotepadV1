@@ -1,0 +1,5 @@
+This is a sample text file
+
+If you want to create and open your own, you may do so
+
+Just make sure to put the correct file name (it is Case sensitive)
